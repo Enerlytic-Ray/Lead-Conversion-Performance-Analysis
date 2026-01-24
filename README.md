@@ -19,7 +19,7 @@ The project follows the **PPDAC framework**:
 
 ---
 
-## ⚙️ Methodology (PPDAC Framework)
+## ⚙️ Methodology
 
 ### 🧩 **1. Problem Definition**
 Despite high lead volume, conversion performance remains low and inconsistent across lead sources.  
@@ -152,7 +152,7 @@ The **Lead Conversion Performance Dashboard** provides a unified operational vie
 
 ---
 
-## 🧮 Workflow Flowchart (PPDAC Applied)
+## 🧮 Workflow Flowchart
 
 The workflow below illustrates the analytical pipeline used in this project, from problem definition to experimentation design.
 
