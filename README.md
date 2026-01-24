@@ -119,8 +119,6 @@ Lead sources were evaluated using the following metrics:
 
 ## 🖼️ Results Visualization Gallery
 
-> 📌 **Insert generated charts and dashboards here**
-
 ### 🔹 Lead Source Performance Comparison
 <p align="center">
   <img src="lead_source_conversion_rate.png" alt="Lead Source Conversion Rates" width="80%">
